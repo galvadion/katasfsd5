@@ -20,3 +20,8 @@ equilatero o iscoceles y vaya agregando los resultados con su triangulo de refer
 
 ## Ejercicio 4
 - Escribir un programa que pregunte primero si se quiere calcular el área de un triángulo o de un círculo. Dependiendo de la respuesta el programa debe pedir la base y la altura, o el radio, para calcular el área de la figura. El resultado obtenido debe mostrarse en la página.
+
+
+# Calistenia 
+- Todo debe estar en componentes
+- Cada ejercicio debería ser accesible con su propia ruta dentro del mismo proyecto
